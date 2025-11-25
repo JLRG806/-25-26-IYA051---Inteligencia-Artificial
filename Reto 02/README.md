@@ -4,7 +4,8 @@ Diseño de Sistemas Inteligentes
 Caso práctico del diseño de una bicicleta autónoma "inteligente" 
 Diseñar a partir de una bicicleta normal sin marchas (1 único plato y 1 único piñón), que cuenta con frenos y manillar, y sin suspensiones como la que se detalla en la siguiente imagen
 
-![[bici.jpg]]
+![bicicleta](bici.jpg "Bicicleta")
+
 
 Entregar un documento en el que se detalle cómo se conceptualiza una bicicleta autónoma: Cómo conseguirías que a través del móvil pudieses llamar a una bicicleta y que viniese a buscarte (trayectoria corta de unos metros que no sea en línea recta).
 - Cómo consigues resolver todos los problemas que surgen. --> Segmenta en subsistemas, estableciendo las relaciones entre ellos, estudiando sus inputs y outputs. 
